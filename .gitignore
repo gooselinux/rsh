@@ -1,0 +1,8 @@
+rexec-xinetd
+rlogin-xinetd
+rsh-xinetd
+rexec-1.5.tar.gz
+rsh.pam
+rlogin.pam
+rexec.pam
+netkit-rsh-0.17.tar.gz
